@@ -3,9 +3,7 @@
 
 Run app as root in linux (Ubuntu/deepin)
 
-ubuntu已经够windows患者头疼了，deepin更想吐
-
-想提点建议，论坛注册了，发帖子验证码输了几十次，没对过，网易人才
+ubuntu已经够头疼了，deepin更想吐，感觉是个不能装花的花瓶，想提点建议，论坛注册了，发帖子验证码输了几十次，没对过，网易人才
 
 # 方法/Instruction：
 新建文本，另存为 gksudo.sh到 桌面，即/home/(你的用户名)/Desktop/，内容如下:
