@@ -5,7 +5,7 @@ Run as root in linux
 ubuntu已经够windows患者头疼了，deepin更想吐
 想提点建议，论坛注册了，发帖子验证码输了几十次，没对过，网易人才
 
-# 方法如下/Instruction：
+# 方法/Instruction：
 新建文本，另存为 gksudo.sh到 桌面，即/home/(你的用户名)/Desktop/，内容如下:
 copy below and save as gksudo.sh at Desktop:
 
@@ -48,5 +48,8 @@ gksudo dde-file-manager
 ```shell
 shc -f runasroot.sh
 ```
-会生成 rootfm.sh.x，双击，输入密码，就是root模式的文件管理器了，其他的可以删了
-Will generate some files, rootfm.sh.x is the one you need. test it now. as root!
+会生成 rootfm.sh.x，
+Will generate **rootfm.sh.x
+
+双击，弹出框输入密码，就是root模式的文件管理器了，其他的可以删了
+Open it and type in you password, voila, root!
