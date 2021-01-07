@@ -1,8 +1,10 @@
 # RunAsRoot
-以root运行文件管理器等
-Run as root in linux
+以root运行软件, 文件管理器等 (Ubuntu/deepin)
+
+Run app as root in linux (Ubuntu/deepin)
 
 ubuntu已经够windows患者头疼了，deepin更想吐
+
 想提点建议，论坛注册了，发帖子验证码输了几十次，没对过，网易人才
 
 # 方法/Instruction：
@@ -38,7 +40,7 @@ shc -f gksudo.sh
 
 # 选择要以root执行的程序 / choose app
 例如 文件管理器(dde-file-manager)，新建文本，输入 
-eg dde-file-manager，copy codes and save as runasroot.sh
+eg dde-file-manager(ubuntu is nautilus)，copy codes and save as runasroot.sh
 
 ```shell
 #!/bin/bash
