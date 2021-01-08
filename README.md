@@ -51,5 +51,11 @@ shc -f runasroot.sh
 会生成 rootfm.sh.x，
 Will generate **rootfm.sh.x
 
+打开终端输入/open terminal then:
+
+```shell
+chmod + rootfm.sh.x
+```
+
 双击，弹出框输入密码，就是root模式的文件管理器了，其他的可以删了
 Open it and type in you password, voila, root!
